@@ -65,8 +65,8 @@ const menu = [
 	},
 	{
 		id: 9,
-		title: 'quarantine buddy',
-		category: 'shakes',
+		title: 'Orange Chicken and Rice',
+		category: 'lunch',
 		price: 16.99,
 		img: './images/item-9.jpeg',
 		desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
