@@ -2,6 +2,7 @@ import React from 'react';
 
 const Categories = ({ filterItems}) => {
     return (
+        //the manual way:
 			<div className="btn-container">
 				<button className="filter-btn" onClick={() => filterItems('all')}>
 					All
